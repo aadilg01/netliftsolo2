@@ -1,5 +1,5 @@
 module.exports = {
-  defaultTitle: 'John Doe',
+  defaultTitle: 'Aadil Gandhi',
   logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
   author: 'John Doe',
   url: 'https://portfolio.smakosh.com',
@@ -31,5 +31,5 @@ module.exports = {
     phone: 'phone number',
   },
   foundingDate: '2018',
-  recaptcha_key: '6Lcs6lQUAAAAAEwhNH2IsobIe2csdda4TU3efpMN',
+  recaptcha_key: 'd74b52cded19268e4cfadc5de223a4fae2750a26',
 };
