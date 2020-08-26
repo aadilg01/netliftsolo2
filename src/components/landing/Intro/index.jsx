@@ -10,7 +10,7 @@ export const Intro = () => (
 		<Header />
 		<IntroWrapper as={Container}>
 			<Details>
-				<h1>Hi There!</h1>a
+				<h1>Hi There!</h1>
 				<h4>I’m Aadil and I’m a Full Stack Dev!</h4>
 				<Button as={AnchorLink} href="#contact">
 					Hire me!
